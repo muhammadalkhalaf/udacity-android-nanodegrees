@@ -8,6 +8,16 @@ Nanodegree program will accelerate your journey to becoming a working
 Android Developer. this program teaches the tools, principles, and patterns that underlie all Android
 development.
 
+### Android Basics Nanodegree
+
+<details>
+  <summary>View Details</summary>
+
+Android apps are everywhere, and learning to build them can be a fantastic
+career move. No programming experience? No problem! The skills you learn in this
+beginning Nanodegree program will accelerate your journey to becoming a working
+Android Developer.
+
 1. [Java Programming Basics](https://www.udacity.com/course/java-programming-basics--ud282)  
    [TicTacToe](https://github.com/udacity/ud282)
 1. [How to Install Android Studio](https://www.udacity.com/course/how-to-install-android-studio--ud808)
@@ -23,7 +33,24 @@ development.
    [Quake Report App](https://github.com/udacity/ud843-QuakeReport)
 1. [Android Basics: Data Storage](https://www.udacity.com/course/android-basics-data-storage--ud845)  
    [Pets App](https://github.com/udacity/ud845-Pets)
-1. [How to create <anything> in Android](https://www.udacity.com/course/how-to-create-anything-in-android--ud802)
+   
+   </details>
+
+---
+
+### Android Developer Nanodegree
+
+<details>
+  <summary>View Details</summary>
+
+For intermediate Java developers pursuing Android specialization, this program
+teaches the tools, principles, and patterns that underlie all Android
+development.
+
+The skills you learn in this Nanodegree program will help you master the
+existing platform, and prepare you for the exciting opportunities in Android's
+future.
+
 1. [Object Oriented Programming in Java](https://www.udacity.com/course/object-oriented-programming-in-java--ud283)
 1. [Developing Android Apps](https://www.udacity.com/course/new-android-fundamentals--ud851)  
    [Toy App Exercise](https://github.com/udacity/ud851-Exercises)  
@@ -57,3 +84,5 @@ development.
 1. [2D Game Development with libGDX](https://www.udacity.com/course/2d-game-development-with-libgdx--ud405)
 1. [Developing Android Apps with Kotlin](https://www.udacity.com/course/developing-android-apps-with-kotlin--ud9012)   
 1. [Advanced Android with Kotlin](https://www.udacity.com/course/advanced-android-with-kotlin--ud940)   
+
+</details>
