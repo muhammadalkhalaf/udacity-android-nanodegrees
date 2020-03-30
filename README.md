@@ -55,3 +55,5 @@ development.
 1. [Android Interview Prep](https://www.udacity.com/course/android-interview-prep--ud241)
 1. [How to Make a Platformer Using libGDX](https://www.udacity.com/course/how-to-make-a-platformer-using-libgdx--ud406)
 1. [2D Game Development with libGDX](https://www.udacity.com/course/2d-game-development-with-libgdx--ud405)
+1. [Developing Android Apps with Kotlin](https://www.udacity.com/course/developing-android-apps-with-kotlin--ud9012)   
+1. [Advanced Android with Kotlin](https://www.udacity.com/course/advanced-android-with-kotlin--ud940)   
