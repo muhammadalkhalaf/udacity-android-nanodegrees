@@ -13,6 +13,7 @@ development.
 <details>
   <summary>View Details</summary>
 
+
 Android apps are everywhere, and learning to build them can be a fantastic
 career move. No programming experience? No problem! The skills you learn in this
 beginning Nanodegree program will accelerate your journey to becoming a working
@@ -42,6 +43,7 @@ Android Developer.
 
 <details>
   <summary>View Details</summary>
+
 
 For intermediate Java developers pursuing Android specialization, this program
 teaches the tools, principles, and patterns that underlie all Android
