@@ -23,7 +23,6 @@ development.
    [Quake Report App](https://github.com/udacity/ud843-QuakeReport)
 1. [Android Basics: Data Storage](https://www.udacity.com/course/android-basics-data-storage--ud845)  
    [Pets App](https://github.com/udacity/ud845-Pets)
-1. [How to create <anything> in Android](https://www.udacity.com/course/how-to-create-anything-in-android--ud802)
 1. [Object Oriented Programming in Java](https://www.udacity.com/course/object-oriented-programming-in-java--ud283)
 1. [Developing Android Apps](https://www.udacity.com/course/new-android-fundamentals--ud851)  
    [Toy App Exercise](https://github.com/udacity/ud851-Exercises)  
