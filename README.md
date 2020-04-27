@@ -88,3 +88,5 @@ future.
 1. [Advanced Android with Kotlin](https://www.udacity.com/course/advanced-android-with-kotlin--ud940)   
 
 </details>
+
+**_This repository has been forked from [muhammadalkhalaf/udacity-android-nanodegrees](https://github.com/muhammadalkhalaf/udacity-android-nanodegrees.git)._**
