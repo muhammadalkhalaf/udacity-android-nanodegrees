@@ -54,3 +54,14 @@ development.
 1. [Android Interview Prep](https://www.udacity.com/course/android-interview-prep--ud241)
 1. [How to Make a Platformer Using libGDX](https://www.udacity.com/course/how-to-make-a-platformer-using-libgdx--ud406)
 1. [2D Game Development with libGDX](https://www.udacity.com/course/2d-game-development-with-libgdx--ud405)
+
+------------------------------------------------------
+### App architecture
+1. [Data Binding](https://developer.android.com/codelabs/android-databinding)(In Kotlin but same XML for java)
+1. [ViewModel ,  Lifecycle , LiveData](https://developer.android.com/codelabs/android-lifecycles)
+1. [Room database](https://developer.android.com/codelabs/android-room-with-a-view)
+1. [Room, LiveData, and ViewModel](https://developer.android.com/codelabs/android-training-livedata-viewmodel)
+1. [Google Gson](https://codinginflow.com/tutorials/android/gson/part-1-simple-serialization-deserialization)
+1. [Retrofit](https://codinginflow.com/tutorials/android/retrofit/part-1-simple-get-request)
+1. [Dependency injection, Dagger 2](https://codinginflow.com/tutorials/android/dagger-2/part-1-introduction)
+
