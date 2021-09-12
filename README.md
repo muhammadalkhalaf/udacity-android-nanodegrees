@@ -13,7 +13,7 @@ development.
 1. [How to Install Android Studio](https://www.udacity.com/course/how-to-install-android-studio--ud808)
 1. [Android Basics: User Interface](https://www.udacity.com/course/android-basics-user-interface--ud834)
 1. [Android Basics: User Input](https://www.udacity.com/course/android-basics-user-input--ud836)
-1. [Android Basics: Multi-screen Apps](https://www.udacity.com/course/android-basics-multi-screen-apps--ud839)  
+1. [Android Basics: Multi-screen Apps](https://www.udacity.com/course/android-basics-multiscreen-apps--ud839)  
    [Custom Adapter Sample App](https://github.com/udacity/ud839_CustomAdapter_Example)  
    [ViewPager Sample App](https://github.com/udacity/ud839_ViewPager_Example)  
    [Miwok App](https://github.com/udacity/ud839_Miwok)
