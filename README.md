@@ -63,7 +63,7 @@ development.
 1. [RXJava](https://proandroiddev.com/exploring-rxjava-in-android-e52ed7ef32e2)
 1. [Retrofit with RXJava](https://www.journaldev.com/20433/android-rxjava-retrofit)
 1. [Fundamentals of dependency injection](https://developer.android.com/training/dependency-injection)
-1. [Dependency injection, Dagger 2](https://codinginflow.com/tutorials/android/dagger-2/part-1-introduction)
-1. [Dagger Documentation](https://dagger.dev/dev-guide/)
+1. [Dependency injection, Dagger 2 Simple Examples](https://codinginflow.com/tutorials/android/dagger-2/part-1-introduction)
+1. [Official Dagger Documentation](https://dagger.dev/dev-guide/)
 1. [New Android Injector with Dagger 2](https://iammert.medium.com/new-android-injector-with-dagger-2-part-1-8baa60152abe)
 
