@@ -46,7 +46,6 @@ development.
 1. [Passwordless Login Solutions for Android](https://www.udacity.com/course/passwordless-login-solutions-for-android--ud357)
 1. [Firebase in a Weekend (Android)](https://www.udacity.com/course/firebase-in-a-weekend-by-google-android--ud0352)
 1. [Firebase Analytics: Android](https://www.udacity.com/course/firebase-analytics-android--ud354)
-1. [Monetize Your Android App with Ads](https://www.udacity.com/course/monetize-your-android-app-with-ads--ud876-3)
 1. [Android Wear Development](https://www.udacity.com/course/android-wear-development--ud875A)
 1. [Android Interview Prep](https://www.udacity.com/course/android-interview-prep--ud241)
 1. [How to Make a Platformer Using libGDX](https://www.udacity.com/course/how-to-make-a-platformer-using-libgdx--ud406)
