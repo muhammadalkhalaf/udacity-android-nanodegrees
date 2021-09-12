@@ -57,7 +57,7 @@ development.
 
 ------------------------------------------------------
 ### App architecture
-1. [Data Binding](https://developer.android.com/codelabs/android-databinding)(In Kotlin but same XML for java)
+1. [Data Binding](https://developer.android.com/topic/libraries/data-binding)
 1. [ViewModel ,  Lifecycle , LiveData](https://developer.android.com/codelabs/android-lifecycles)
 1. [ViewModelProvider.Factory](https://medium.com/koderlabs/viewmodel-with-viewmodelprovider-factory-the-creator-of-viewmodel-8fabfec1aa4f)
 1. [Room database](https://developer.android.com/codelabs/android-room-with-a-view)
